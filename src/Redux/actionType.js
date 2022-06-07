@@ -1,0 +1,10 @@
+export const SHOW_POSTS = "SHOW_POSTS";
+export const SHOW_POSTS_ERROR = "SHOW_POSTS_ERROR"
+export const SHOW_USERS = "SHOW_USERS";
+export const SHOW_USERS_ERROR = "SHOW_USERS_ERROR";
+export const SHOW_POST = "SHOW_POST";
+export const SHOW_POST_ERROR = "SHOW_POST_ERROR";
+export const SHOW_USER = "SHOW_USER";
+export const SHOW_USER_ERROR = "SHOW_USER_ERROR";
+export const SHOW_POST_COMMENTS = "SHOW_POST_COMMENTS";
+export const SHOW_COMMENTS_ERROR = "SHOW_COMMENTS_ERROR";
